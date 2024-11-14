@@ -10,3 +10,5 @@ The Future of Decentralised AI
 [NineteenAI](https://nineteen.ai)
 
 [Chutes](https://chutes.ai)
+
+Gradients.io Coming Soon
