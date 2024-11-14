@@ -8,3 +8,5 @@ The Future of Decentralised AI
 [Fiber](https://fiber.sn19.ai)
 
 [NineteenAI](https://nineteen.ai)
+
+[Chutes](https://chutes.ai)
