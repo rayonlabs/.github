@@ -11,4 +11,4 @@ The Future of Decentralised AI
 
 [Chutes](https://chutes.ai)
 
-Gradients.io Coming Soon
+[Gradients](https://gradients.io)
